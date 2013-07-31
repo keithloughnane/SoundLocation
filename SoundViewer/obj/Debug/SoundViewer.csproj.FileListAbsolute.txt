@@ -1,0 +1,38 @@
+C:\Documents and Settings\aku.ANIMAL.000\Desktop\SoundViewerSource\SoundViewer\SoundViewer\bin\Debug\SoundViewer.exe
+C:\Documents and Settings\aku.ANIMAL.000\Desktop\SoundViewerSource\SoundViewer\SoundViewer\bin\Debug\SoundViewer.pdb
+C:\Documents and Settings\aku.ANIMAL.000\Desktop\SoundViewerSource\SoundViewer\SoundViewer\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\aku.ANIMAL.000\Desktop\SoundViewerSource\SoundViewer\SoundViewer\obj\Debug\SoundViewer.Form1.resources
+C:\Documents and Settings\aku.ANIMAL.000\Desktop\SoundViewerSource\SoundViewer\SoundViewer\obj\Debug\SoundViewer.Properties.Resources.resources
+C:\Documents and Settings\aku.ANIMAL.000\Desktop\SoundViewerSource\SoundViewer\SoundViewer\obj\Debug\SoundViewer.csproj.GenerateResource.Cache
+C:\Documents and Settings\aku.ANIMAL.000\Desktop\SoundViewerSource\SoundViewer\SoundViewer\obj\Debug\SoundViewer.exe
+C:\Documents and Settings\aku.ANIMAL.000\Desktop\SoundViewerSource\SoundViewer\SoundViewer\obj\Debug\SoundViewer.pdb
+D:\college\SoundViewer\SoundViewer\obj\Debug\SoundViewer.exe
+D:\college\SoundViewer\SoundViewer\obj\Debug\SoundViewer.pdb
+D:\college\SoundViewer\SoundViewer\bin\Debug\SoundViewer.exe
+D:\college\SoundViewer\SoundViewer\bin\Debug\SoundViewer.pdb
+D:\college\SoundViewer\SoundViewer\obj\Debug\ResolveAssemblyReference.cache
+D:\college\SoundViewer\SoundViewer\obj\Debug\SoundViewer.Form1.resources
+D:\college\SoundViewer\SoundViewer\obj\Debug\SoundViewer.Properties.Resources.resources
+D:\college\SoundViewer\SoundViewer\obj\Debug\SoundViewer.csproj.GenerateResource.Cache
+K:\backups\KEITH_LOUGHNANE\2008-Nov-08\college\SoundViewer\SoundViewer\obj\Debug\SoundViewer.exe
+K:\backups\KEITH_LOUGHNANE\2008-Nov-08\college\SoundViewer\SoundViewer\obj\Debug\SoundViewer.pdb
+K:\backups\KEITH_LOUGHNANE\2008-Nov-08\college\SoundViewer\SoundViewer\bin\Debug\SoundViewer.exe
+K:\backups\KEITH_LOUGHNANE\2008-Nov-08\college\SoundViewer\SoundViewer\bin\Debug\SoundViewer.pdb
+K:\backups\KEITH_LOUGHNANE\2008-Nov-08\college\SoundViewer\SoundViewer\obj\Debug\ResolveAssemblyReference.cache
+K:\backups\KEITH_LOUGHNANE\2008-Nov-08\college\SoundViewer\SoundViewer\obj\Debug\SoundViewer.Form1.resources
+K:\backups\KEITH_LOUGHNANE\2008-Nov-08\college\SoundViewer\SoundViewer\obj\Debug\SoundViewer.Properties.Resources.resources
+K:\backups\KEITH_LOUGHNANE\2008-Nov-08\college\SoundViewer\SoundViewer\obj\Debug\SoundViewer.csproj.GenerateResource.Cache
+J:\backups\KEITH_LOUGHNANE\2008-Nov-08\college\SoundViewer\SoundViewer\obj\Debug\SoundViewer.exe
+J:\backups\KEITH_LOUGHNANE\2008-Nov-08\college\SoundViewer\SoundViewer\obj\Debug\SoundViewer.pdb
+D:\work\current_projects\SoundViewer\SoundViewer\bin\Debug\SoundViewer.exe
+D:\work\current_projects\SoundViewer\SoundViewer\bin\Debug\SoundViewer.pdb
+D:\work\current_projects\SoundViewer\SoundViewer\obj\Debug\ResolveAssemblyReference.cache
+D:\work\current_projects\SoundViewer\SoundViewer\obj\Debug\SoundViewer.Form1.resources
+D:\work\current_projects\SoundViewer\SoundViewer\obj\Debug\SoundViewer.Properties.Resources.resources
+D:\work\current_projects\SoundViewer\SoundViewer\obj\Debug\SoundViewer.csproj.GenerateResource.Cache
+D:\work\current_projects\SoundViewer\SoundViewer\obj\Debug\SoundViewer.exe
+D:\work\current_projects\SoundViewer\SoundViewer\obj\Debug\SoundViewer.pdb
+D:\college\software\12 feb 09\SoundViewer\SoundViewer\obj\Debug\SoundViewer.exe
+D:\college\software\12 feb 09\SoundViewer\SoundViewer\obj\Debug\SoundViewer.pdb
+D:\work\current_projects\SoundViewer\C\SoundViewer\obj\Debug\SoundViewer.exe
+D:\work\current_projects\SoundViewer\C\SoundViewer\obj\Debug\SoundViewer.pdb
